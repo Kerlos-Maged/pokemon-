@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+.box {
+  height: 100vh;
+  background-color: #17203D;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+h2 {
+  padding: 20px 0px;
+  font-size: 30px;
+}
+p {
+  font-size: 24px;
+}
+.content {
+  background-color: #6552D0;
+  padding: 80px 20px;
+  text-align: center;
+  color: white; 
+}
